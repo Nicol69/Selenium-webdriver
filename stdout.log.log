@@ -1,0 +1,14 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+Example Task                                                          
+Executing EntryPoint
+
+True
+| PASS |
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Administrator\Desktop\QuickRPA-back\media\1\robots\49\3bb20ccf-0126-4e42-9899-38c43115b27b\bot-starter-kit\output\output.xml
+Log:     C:\Users\Administrator\Desktop\QuickRPA-back\media\1\robots\49\3bb20ccf-0126-4e42-9899-38c43115b27b\bot-starter-kit\output\log.html
